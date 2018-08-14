@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.microservice.example.currencyconversion;
+package com.springboot.microservice.currencyconversion;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.cloud.netflix.ribbon.RibbonClient;

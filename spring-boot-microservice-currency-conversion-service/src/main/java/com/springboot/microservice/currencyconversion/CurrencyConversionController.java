@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.microservice.example.currencyconversion;
+package com.springboot.microservice.currencyconversion;
 
 import java.math.BigDecimal;
 import java.util.HashMap;
